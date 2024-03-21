@@ -157,7 +157,7 @@
 ## 2023-12-21 第24回 最終成果物ヒアリング(1)
 - 「あなたにできることをしなさい。今あるもので、今いる場所で。」
 - LT会「メカニカルキーボードを買ってみた」
-- [Python環境構築マスタークラス](https://github.com/rockyhg/lt-python-env/blob/main/Python%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9.ipynb)
+- 【講義】[Python環境構築マスタークラス](https://github.com/rockyhg/lt-python-env/blob/main/Python%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9.ipynb)
 
 ## 2023-12-25 第25回 最終成果物ヒアリング(2)
 
@@ -169,75 +169,100 @@
 
 
 ## 2024-01-15 第28回 自走期間 Day 1
-- 「知之者不如好之者、好之者不如樂之者（天才は努力する者に勝てないし、努力する者は楽しむ者には勝てない）」
-
+- 孔子「知之者不如好之者、好之者不如樂之者」（天才は努力する者には勝てないし、努力するものは楽しむ者には勝てない）
+- LT会「LT会をしてみて得たこと」
+- 構想発表「ファッションアイテム画像分類」
+- グループワーク「Streamlitで作ってみる」
 
 ## 2024-01-18 第29回 自走期間 Day 2
-
+- LT会「教えるということ、教わるということ」
+- LT会「ラズパイ②」
+- グループワーク「Streamlitで作ってみる」
 
 ## 2024-01-22 第30回 自走期間 Day 3
-
+- [NARUTO - HandSignDetection](https://github.com/Kazuhito00/NARUTO-HandSignDetection)
+- LT会「我が家のペット」
+- LT会「[suno](https://www.suno.ai/)で曲作り」
+- 【演習】Streamlitで作ってみる
 
 ## 2024-01-25 第31回 自走期間 Day 4
--
-- [Streamlitでリアルタイム画像処理](https://github.com/rockyhg/streaming-template)
-- 強化学習
-
+- [AI使った新しい検索ツール、米グーグルが発表](https://www.cnn.co.jp/tech/35214081.html) (CNN)
+- LT会「Google Pixelのこと」
+- LT会「AIの選択」
+- 【講義】[Streamlitでリアルタイム画像処理](https://github.com/rockyhg/streaming-template)
+- 【講義】強化学習
 
 ## 2024-01-29 第32回 自走期間 Day 5
 - [AI 2041](https://www.amazon.co.jp/dp/4163916423/)（書籍）
 - LT会「OpenAI API を使ったデータセットの作成」
 - [Cursor](https://cursor.sh/) (AI-first Code Editor)
 
-
 ## 2024-02-01 第33回 自走期間 Day 6
-
+- G検定の感想
+- LT会「赤ちゃんを見ていたらニューラルネットワークの理解が進んだ件」
 
 ## 2024-02-05 第34回 自走期間 Day 7
-
+- [Apple Vision Pro](https://www.apple.com/jp/newsroom/2023/06/introducing-apple-vision-pro/)
+- LT会「YOLOv8でお魚発見（物体検出）」
+- 【講義】YOLOv8を用いた物体検出について
 
 ## 2024-02-08 第35回 自走期間 Day 8
-
+- [神戸市、全職員が生成AIの本格利用開始](https://www.nikkei.com/article/DGXZQOUF31AEB0R30C24A1000000/)
+- ゴールシークプロンプト
+- LT会「YOLOv8でクッキー割れ検知、アノテーションを行うroboflowの紹介」
+- 【演習】スクレイピングを用いてデータを収集し、モデル構築までを経験する
 
 ## 2024-02-15 第36回 自走期間 Day 9
-
+- 【事務連絡】中間発表について、卒業要件の確認
+- LT会「○○家専用LINE通知ボットを作ってみた」
+- 【講義】roboflowの使い方
+- 【演習】スクレイピングを用いてデータを収集し、モデル構築までを経験する
 
 ## 2024-02-19 第37回 自走期間 Day 10
-- LT会「Yolo VS くまのプーさん」
-- [デプロイについて](./contents/deployment.pdf)
-
+- LT会「YOLOv8 VS くまのプーさん」
+- 【講義】[デプロイについて](./contents/deployment.pdf)
+- 【演習】スクレイピングを用いてデータを収集し、モデル構築までを経験する（結果報告）
 
 ## 2024-02-22 第38回 自走期間 Day 11
-
+- 【講義】Transformerモデルの歴史
+- 成果物ごりごり
 
 ## 2024-02-26 第39回 自走期間 Day 12
-- 中間発表(1)
-
+- [Sora](https://openai.com/sora): テキストから動画を生成するAI
+- 中間報告(1)
 
 ## 2024-02-29 第40回 自走期間 Day 13
-- 中間発表(2)
-
+- 中間報告(2)
+  - 発表中に宅配が来る
 
 ## 2024-03-04 第41回 自走期間 Day 14
-
+- LT会「アプリ第2弾 冷蔵庫にある食材を画像検知し、残った食材で安く作れるレシピを提案するアプリ」
+- 成果物ごりごり
+- [Pythonによる時系列予測](https://www.amazon.co.jp/dp/4839982961/)（書籍）
+  - 機械学習モデルと統計モデルの両方を記載している
 
 ## 2024-03-07 第42回 自走期間 Day 15
-
+- LT会「転職活動、面接の実態について赤裸々に語ります」
+- 成果物ごりごり
 
 ## 2024-03-11 第43回 自走期間 Day 16
-
+- [データサイエンティスト検定 リテラシーレベル](https://www.datascientist.or.jp/dscertification/)
+- LT会「お買い物アプリ」
+  - [“きのこ・たけのこ論争”に終止符？　X線で分析　驚きの結果に19万“いいね”の大反響 - Yahoo!ニュース](https://news.yahoo.co.jp/articles/12e75c8f05e079e81b14cb513b92f439ff7900f9)
+- 成果物ごりごり
 
 ## 2024-03-14 第44回 自走期間 Day 17
-
+- LT会「キカガクコミュニティでお待ちしています！」
+- 成果物ごりごり
+- リアル打ち上げ告知
 
 ## 放課後 Git 勉強会
 - [Git勉強会 説明資料](https://github.com/rockyhg/git-study)
 
-
 ## 2024-03-18 第45回 自走期間 Day 18
 - LT会「E資格とこれから + Webポートフォリオ」
-- チーム学習
-  
+- 成果物ごりごり
+
 ## 2024-03-21 第46回 自走期間 Day 19
 
 
