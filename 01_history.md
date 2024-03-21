@@ -141,16 +141,21 @@
 
 
 ## 2023-12-11 第21回 ファインチューニング
-
+- 「10月の自分と比べてみよう」
+- [手書き数字認識アプリ](https://www.github.com/Gohei/MNIST-FastAPI-Streamlit)
+- チーム学習「ネジの異常検知」
 
 ## 2023-12-14 第22回 システム開発(1)
-
-
+- 「人は皆、育つスピードが違う。」
+- LT会「【3分経ったら】CNNに関するサイトの紹介【即終了】」[参照:CNN Explainer](https://poloclub.github.io/cnn-explainer/)
+- 
 ## 2023-12-18 第23回 システム開発(2)
+- 「Sometimes I wonder you can stand being just a dog... / You play with the cards you're dealt …whatever that means.（ルーシー：私、時々どうしてあなたが犬なんかでいられるのか不思議に思うのよね。/スヌーピー：配られたカードで勝負するしかないから、しょうがないじゃん」
 - LT会「環境構築講座の告知」
 
 
 ## 2023-12-21 第24回 最終成果物ヒアリング(1)
+- 「あなたにできることをしなさい。今あるもので、今いる場所で。」
 - LT会「メカニカルキーボードを買ってみた」
 - [Python環境構築マスタークラス](https://github.com/rockyhg/lt-python-env/blob/main/Python%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9.ipynb)
 
@@ -164,6 +169,7 @@
 
 
 ## 2024-01-15 第28回 自走期間 Day 1
+- 「知之者不如好之者、好之者不如樂之者（天才は努力する者に勝てないし、努力する者は楽しむ者には勝てない）」
 
 
 ## 2024-01-18 第29回 自走期間 Day 2
