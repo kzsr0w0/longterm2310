@@ -113,8 +113,31 @@
 
 ## 2023-12-04 第19回 PyTorchで分類・回帰
 - 担任交代
+- 「今日も自分偉い！」
+- LT会「色々とやってみた結果」
+- 講義：PyTorch Lightningの穴埋め解説・ポイント解説
+- [人工知能・深層学習を学ぶためのロードマップ](https://weblab.t.u-tokyo.ac.jp/%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%BB%E6%B7%B1%E5%B1%A4%E5%AD%A6%E7%BF%92%E3%82%92%E5%AD%A6%E3%81%B6%E3%81%9F%E3%82%81%E3%81%AE%E3%83%AD%E3%83%BC%E3%83%89%E3%83%9E%E3%83%83%E3%83%97/)
+- [ディープラーニング協会の活用事例集](https://www.jdla.org/case/)
+- [E資格には例題がある](https://avilen.co.jp/personal/test/e-certificate/)
+- [AI×俳句](http://harmo-lab.jp/?page_id=6305)
+- [AI×音楽](https://nissenad-digitalhub.com/articles/ai-for-composition/)
+- [キカガクお勧め書籍](https://blog.kikagaku.co.jp/book-computervision)
+- [オライリーのサブスク](https://qiita.com/kabuakantech/items/641f8f0d5dd90ef929e9)
 
 ## 2023-12-07 第20回 畳み込みニューラルネットワーク・画像のクラス分類
+- 「全力だけは尽くしてみる」
+- LT会「データサイエンティストの必須スキル？SQLのすすめ」
+-[SQL学習おすすめ書籍](https://www.amazon.co.jp/dp/429501074x)　※実行環境がGoogle BigQuery限定。BigQueryは個人による無料利用可能。ただし利用量の上限あり。
+- LT会「半年で18㎏痩せる魔法のダイエット方法」
+- 講義「①画像をどのように数値計算するか　②ディープラーニングは内部でどのような計算をするか」
+- [TensorSpace.js](https://tensorspace.org/)
+- [Browse State-of-the-Art](https://paperswithcode.com/sota)
+- [最適な学習済みモデルが高精度かつ高速にわかる！？モデルの転移性を予測する指標LEEPの登場！](https://ai-scholar.tech/articles/%E8%BB%A2%E7%A7%BB%E5%AD%A6%E7%BF%92/LEEP)
+- [rinna](https://huggingface.co/rinna/japanese-gpt-neox-3.6b-instruction-ppo)
+- [OpenAIの文字起こしAI「Whisper」の使い方](https://aismiley.co.jp/ai_news/what-is-whisper/)
+- [Whisper](https://github.com/openai/whisper/blob/main/whisper/model.py)
+
+
 
 
 ## 2023-12-11 第21回 ファインチューニング
