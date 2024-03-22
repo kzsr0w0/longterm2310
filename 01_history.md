@@ -196,6 +196,7 @@
 - グループワーク
 
 ## 2023-11-13 第13回 ハイパーパラメータの調整
+
 - ノミの法則　→　一次情報を読もう！
 - LT会「趣味と資格取得の過程で学んだ、学習において大事な2つのこと」
 - LT会「アウトプットの意義と出し方」
@@ -222,8 +223,12 @@
 - [(PDF) James Bergstra, Yoshua Bengio; Random Search for Hyper-Parameter Optimization, Journal of Machine Learning Research 13 (2012) 281-305](https://www.jmlr.org/papers/volume13/bergstra12a/bergstra12a.pdf)
 - Frank Hutter, Holger H. Hoos and Kevin Leyton-Brown, Sequential Model-Based Optimization for General
 - [(PDF) Algorithm Configuration, Learning and Intelligent Optimization, 2011, Volume 6683](https://ml.informatik.uni-freiburg.de/wp-content/uploads/papers/11-LION5-SMAC.pdf)
+- [キカガクブログ](https://www.kikagaku.co.jp/kikagaku-blog/)
+- [Zenn](https://zenn.dev/)
 
 ## 2023-11-16 第14回 Notebookと実プロジェクトのギャップ
+- LT会「GPTs + コンビニデータ解析」
+- LT会「クライミングのすすめ」
 - 【講義】
   - Jupyter Notebookの特徴
     - 好きな順番でコードが実行できる→バグが起こりやすい
@@ -236,6 +241,7 @@
 - グループワーク
 - [試行回数の増やし方](https://speakerdeck.com/butsugiri/increasing-number-of-attempts-ver-2021)
 - [bert-classification-tutorial](https://github.com/hppRC/bert-classification-tutorial/tree/main)
+
 
 ## 2023-11-20 第15回 コンペティション参加
 - LT会「糖尿病データセットの医療的な背景」
@@ -265,12 +271,11 @@
 
 ## 2023-11-27 第17回 ディープラーニングの全体像
 - LT会「【1分経ったら】ドラパルトとポケモンバトルの魅力【即終了】」
-- LT会「大学のお話」
+- LT会「今の日本の高等教育をぼそぼそ」
 - 【講義】
   - ディープラーニングの立ち位置
   - ディープラーニングのトレンドは生成
 - グループワーク
-
 - [A Neural Network Playground](https://playground.tensorflow.org/)
 - [Tinker With a Neural Network Right Here in Your Browser.Don’t Worry, You Can’t Break It. We Promise.](https://playground.tensorflow.org/#activation=tanh&batchSize=10&dataset=circle&regDataset=reg-plane&learningRate=0.03&regularizationRate=0&noise=0&networkShape=4,2&seed=0.73342&showTestData=false&discretize=false&percTrainData=50&x=true&y=true&xTimesY=false&xSquared=false&ySquared=false&cosX=false&sinX=false&cosY=false&sinY=false&collectStats=false&problem=classification&initZero=false&hideText=false)
 - [ゼロから作るDeep Learning](https://www.oreilly.co.jp/books/9784873117584/)
@@ -306,7 +311,7 @@
 
 ## 2023-12-07 第20回 畳み込みニューラルネットワーク・画像のクラス分類
 - 「全力だけは尽くしてみる」
-- LT会「データサイエンティストの必須スキル？SQLのすすめ」
+- LT会「【3分過ぎたら】データサイエンティストに必須のスキル？SQLのすすめ【丸坊主】」
 -[SQL学習おすすめ書籍](https://www.amazon.co.jp/dp/429501074x)　※実行環境がGoogle BigQuery限定。BigQueryは個人による無料利用可能。ただし利用量の上限あり。
 - LT会「半年で18㎏痩せる魔法のダイエット方法」
 - 講義「①画像をどのように数値計算するか　②ディープラーニングは内部でどのような計算をするか」
@@ -317,9 +322,6 @@
 - [OpenAIの文字起こしAI「Whisper」の使い方](https://aismiley.co.jp/ai_news/what-is-whisper/)
 - [Whisper](https://github.com/openai/whisper/blob/main/whisper/model.py)
 
-
-
-
 ## 2023-12-11 第21回 ファインチューニング
 - 「10月の自分と比べてみよう」
 - [手書き数字認識アプリ](https://www.github.com/Gohei/MNIST-FastAPI-Streamlit)
@@ -328,26 +330,29 @@
 ## 2023-12-14 第22回 システム開発(1)
 - 「人は皆、育つスピードが違う。」
 - LT会「【3分経ったら】CNNに関するサイトの紹介【即終了】」[参照:CNN Explainer](https://poloclub.github.io/cnn-explainer/)
-- 
 ## 2023-12-18 第23回 システム開発(2)
 - 「Sometimes I wonder you can stand being just a dog... / You play with the cards you're dealt …whatever that means.（ルーシー：私、時々どうしてあなたが犬なんかでいられるのか不思議に思うのよね。/スヌーピー：配られたカードで勝負するしかないから、しょうがないじゃん」
-- LT会「環境構築講座の告知」
-
+- LT会「【1分くらいで】環境構築講座の告知」
 
 ## 2023-12-21 第24回 最終成果物ヒアリング(1)
 - 「あなたにできることをしなさい。今あるもので、今いる場所で。」
-- LT会「メカニカルキーボードを買ってみた」
+- LT会「メカニカルキーボードを買ってみた」→Keychron K8 Pro
+- LT会「お取り寄せスイーツ」→Cheese Wonder/バターのいとこ
 - 【講義】[Python環境構築マスタークラス](https://github.com/rockyhg/lt-python-env/blob/main/Python%E7%92%B0%E5%A2%83%E6%A7%8B%E7%AF%89%E3%83%9E%E3%82%B9%E3%82%BF%E3%83%BC%E3%82%AF%E3%83%A9%E3%82%B9.ipynb)
 
 ## 2023-12-25 第25回 最終成果物ヒアリング(2)
-
+- 「よいお年を！辰を迎える準備」
+- LT会「これまで作成したアプリの紹介」
+- LT会「アプリケーションのデプロイについて」
+- 「キカガクキャリアのサービスについて」
 
 ## 2024-01-09 第26回 構想発表(1)
-
+- 「本年もよろしくお願いいたします。」
 
 ## 2024-01-11 第27回 構想発表(2)
-
-
+- 「自走力があるとは？」
+- 書籍[Python×APIで動かして学ぶAI活用プログラミング](https://www.shuwasystem.co.jp/book/9784798070902.html)
+- 「ベイズ機械学習入門」
 ## 2024-01-15 第28回 自走期間 Day 1
 - 孔子「知之者不如好之者、好之者不如樂之者」（天才は努力する者には勝てないし、努力するものは楽しむ者には勝てない）
 - LT会「LT会をしてみて得たこと」
@@ -444,7 +449,7 @@
 - 成果物ごりごり
 
 ## 2024-03-21 第46回 自走期間 Day 19
-
+- LT会「機械学習で使える知見 + 時系列に CNN を適用」
 
 ## 2024-03-25 第47回 最終発表(1)
 
