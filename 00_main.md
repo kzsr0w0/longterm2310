@@ -3,7 +3,7 @@
 ここは10月期の記録です
 
 こんにちは！<br>
-![image](./image_2024_02_29T13_00_00_059Z.png)<br>
+![image](./contents/y_saurus.png)<br>
 
 
 #### 10月期の期間<br>
