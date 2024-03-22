@@ -236,6 +236,12 @@
 - 成果物ごりごり
 
 ## 2024-03-21 第46回 自走期間 Day 19
+- 【ミニ講義】機械学習で使える知見 + 時系列に CNN を適用
+  - [sktimeのRocketClassifierを調べてみると、ROCKETという変換器を通したデータを分類器に食わせているだけだった - Qiita](https://qiita.com/takahashi-ry/items/8563ebcca1363fadf106)
+  - Pycaretでモデル比較
+  - SHAPで可視化
+  - [PythonのAutoFeatを使った自動特徴量エンジニアリング（Automatic Feature Engineering）その1（回帰問題） – セールスアナリティクス](https://www.salesanalytics.co.jp/datascience/datascience027/)
+- 成果物ごりごり
 
 
 ## 2024-03-25 第47回 最終発表(1)
