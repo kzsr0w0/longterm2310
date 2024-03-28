@@ -2,18 +2,24 @@
 
 ここは10月期の記録です
 
-こんにちは！<br>
-![image](./contents/y_saurus.png)<br>
+こんにちは！
+
+![image](./contents/y_saurus.png)
 
 
-#### 10月期の期間<br>
-&ensp;&ensp;&ensp;&ensp;2023年10月1日 ~ 2024年3月31日
-&ensp;&ensp;&ensp;&ensp;[長期コース半年間の歩み](01_history.md)
+## 10月期の期間
+2023年10月1日 ~ 2024年3月31日
 
-#### 共有されたURL
-- [MLU-Explain](https://mlu-explain.github.io/)<br>機械学習の理論、手法が視覚的にわかりやすく説明されているサイト<br>
+▶ [長期コース半年間の歩み](./01_history.md)
 
-- [Axross Recipe](https://axross-recipe.com/recipes)<br>具体的な機械学習・AIの実装をテキスト＋動画＋コードを用いて解説してくれるサイト
 
-- [drow.io](https://app.diagrams.net/)<br>図を作成できるソフト 
-  
+## 放課後プロジェクト
+講義終了後に有志で集まって勉強会、アプリ開発を行いました
+
+▶ [放課後の成果物](./02_product.md)
+
+
+## リンク集
+講義中やSlackで共有されたツールや記事のリンクを集めました
+
+▶ [リンク集](./03_links.md)
